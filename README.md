@@ -10,15 +10,10 @@
 
 ### Members
 
-임승섭|
-:-:|
-|[seopp](https://github.com/seopp)|
-|y7511204@naver.com|
-
-신은빈|
-:-:|
-|[eunbinni](https://github.com/eunbinni)|
-|dnflrhra@naver.com|
+임승섭|신은빈
+:-:|:-:
+|[seopp](https://github.com/seopp)|[eunbinni](https://github.com/eunbinni)|
+|y7511204@naver.com|dnflrhra@naver.com|
 
 ---
 # 2. Project Outline
