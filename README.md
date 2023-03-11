@@ -5,7 +5,7 @@
 ## 소개 & 성적
 
 ### Score  
-![public 1st](https://img.shields.io/badge/PUBLIC-1th-red?style=plastic) ![private 11th](https://img.shields.io/badge/PRIVATE-11rd-red?style=plastic)
+![public 1st](https://img.shields.io/badge/PUBLIC-1st-red?style=plastic) ![private 11th](https://img.shields.io/badge/PRIVATE-11th-red?style=plastic)
 
 
 ### Members
