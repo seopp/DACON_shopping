@@ -15,6 +15,11 @@
 |[seopp](https://github.com/seopp)|
 |y7511204@naver.com|
 
+신은빈|
+:-:|
+|[eunbinni](https://github.com/eunbinni)|
+|dnflrhra@naver.com|
+
 ---
 # 2. Project Outline
 
